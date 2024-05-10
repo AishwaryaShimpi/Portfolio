@@ -339,8 +339,12 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
+  width: 300px; 
+  height: 300px;
   justify-content: space-around;
 }
+
+
 
 article {
   display: flex;
